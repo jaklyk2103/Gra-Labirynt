@@ -1,3 +1,4 @@
-To repozytorium zawiera projekt z trzeciego semestru studiów informatycznych.
-Dotyczy programu pe³ni¹cego funkcjê kalkulatora ONP w architekturze klient-serwer.
-Plik exe nie dzia³a, jednak mo¿na uruchomiæ program poprzez projekt .sln w œrodowisku Visual Studio.
+To repozytorium zawiera projekt z trzeciego semestru studiÃ³w informatycznych.
+Dotyczy programu peÅ‚niÄ…cego funkcjÄ™ kalkulatora ONP w architekturze klient-serwer.
+Plik exe nie dziaÅ‚a, jednak moÅ¼na uruchomiÄ‡ program poprzez projekt .sln w Å›rodowisku Visual Studio.
+03.07.2018r.
