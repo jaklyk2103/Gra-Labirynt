@@ -1,3 +1,4 @@
-﻿To repozytorium zawiera projekt z trzeciego semestru studiów informatycznych.
-Dotyczy programu pełniącego funkcję kalkulatora ONP w architekturze klient-serwer.
-Plik exe nie działa, jednak można uruchomić program poprzez projekt .sln w środowisku Visual Studio.
+To repozytorium zawiera projekt z czwartego semestru studiów informatycznych.
+Dotyczy małej gry polegającej na przechodzeniu losowo wygenerowanych labiryntów w wyznaczonym czasie, pokonując przy tym przeciwników i podnosząc różne przedmioty wpływające na statystyki postaci gracza.
+
+Aby uruchomić grę, wystarczy uruchomić plik exe.
