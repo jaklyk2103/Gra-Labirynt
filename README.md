@@ -1,4 +1,10 @@
-To repozytorium zawiera projekt z czwartego semestru studiów informatycznych.
-Dotyczy małej gry polegającej na przechodzeniu losowo wygenerowanych labiryntów w wyznaczonym czasie, pokonując przy tym przeciwników i podnosząc różne przedmioty wpływające na statystyki postaci gracza.
+﻿This repository contains my project from the second year of my studies.
+It's a game written in C++ language, using SFML. 
 
-Aby uruchomić grę, wystarczy uruchomić plik exe.
+In this game you have to beat randomly generated maze levels in 60 seconds and at the same time fight with enemies and pick up items which change your character's statistics.
+
+To start the game, you have to run MazeRPG.exe.
+
+Controls:
+Arrow keys - walk
+Space - attack
